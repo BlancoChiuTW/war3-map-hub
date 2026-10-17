@@ -22,6 +22,6 @@ GitHub 儲存庫 Settings → Pages → Source 選 GitHub Actions。推送 main 
 
 ## 設計
 
-深色橄欖灰、暖金、細邊框與漢字幾何封面。無 Emoji，無虛構流量、評分或留言。封面是原創字體與幾何構圖，不代表遊戲實際截圖。
+深色橄欖灰、暖金與細邊框。無 Emoji，無虛構流量、評分或留言。封面從對應地圖封裝擷取：七張使用 war3mapPreview.tga，勾肥大戰使用 war3mapMap.blp 小地圖；轉為 WebP，保留完整比例。原圖尺寸 256×256，未使用 AI 重繪。來源檔名、封裝路徑與原始素材 SHA256 見 assets/maps/sources.json。未提供預覽圖時保留漢字封面。
 
 資訊結構參考 [HIVE](https://www.hiveworkshop.com/repositories/maps.564/) 與 [Epic War](https://www.epicwar.com/maps/)。地圖權利歸原權利人所有。

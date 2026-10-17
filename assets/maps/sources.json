@@ -1,0 +1,58 @@
+{
+  "saint": {
+    "sourceMap": "SaintSeiyaHadesTW_v1.0.w3x",
+    "archiveEntry": "war3mapPreview.tga",
+    "width": 256,
+    "height": 256,
+    "sourceSHA256": "c9c0ba6bc2b16ba796e01f0d5009774a20d5e5504a47a9a222d026d234af6b0a"
+  },
+  "chs": {
+    "sourceMap": "21_最新版.w3x",
+    "archiveEntry": "war3mapPreview.tga",
+    "width": 256,
+    "height": 256,
+    "sourceSHA256": "2bca82c76dc7bd6b7e665c26831d02a6ae36cd77a343ed1cbf5acedfab0bf3c6"
+  },
+  "xiangyang": {
+    "sourceMap": "Xiangyang711_v5.w3x",
+    "archiveEntry": "war3mapPreview.tga",
+    "width": 256,
+    "height": 256,
+    "sourceSHA256": "a4239b3f80269693e353013c6dc5dca6393b74af2821adb654bd99ad4c13aa28"
+  },
+  "jurassic": {
+    "sourceMap": "JurassicPark_v4.w3x",
+    "archiveEntry": "war3mapPreview.tga",
+    "width": 256,
+    "height": 256,
+    "sourceSHA256": "08521485af49b4521bf1223ea8dee11de2dc1037a4267867cdf8b0dcbd4e97aa"
+  },
+  "aon": {
+    "sourceMap": "AON_V12B_v2.w3x",
+    "archiveEntry": "war3mapPreview.tga",
+    "width": 256,
+    "height": 256,
+    "sourceSHA256": "a86722b19a89a8f996dbe9d6f30058c23ded71b674a7c952e79f59565deca37b"
+  },
+  "colosseum": {
+    "sourceMap": "Colosseum200d_v3.w3m",
+    "archiveEntry": "war3mapPreview.tga",
+    "width": 256,
+    "height": 256,
+    "sourceSHA256": "9e95bb0930ff7b388d064832295b0cefe7a9542a272b7ef75f1f41935a80cb09"
+  },
+  "hook": {
+    "sourceMap": "HookWar125_v2.w3x",
+    "archiveEntry": "war3mapMap.blp",
+    "width": 256,
+    "height": 256,
+    "sourceSHA256": "b786a739dcc07586a5491ad6c5f7dd32c884fe2bc5a2443f0c7818d7350011c1"
+  },
+  "dddz": {
+    "sourceMap": "FIX_DDDZ41A3_v2.w3x",
+    "archiveEntry": "war3mapPreview.tga",
+    "width": 256,
+    "height": 256,
+    "sourceSHA256": "b36db0e1b3c411fe9ff13eb7c8adda1580f4b4529d773b873c2e0fec102d9369"
+  }
+}
